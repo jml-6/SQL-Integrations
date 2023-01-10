@@ -1,0 +1,11 @@
+        Field      Type Null Key Default Extra
+0      ItemID       int  YES        None      
+1      Domain  char(50)  YES        None      
+2  Domain_num       int  YES        None      
+3        Qnum       int  YES        None      
+4        Form   char(1)  YES        None      
+       Field     Type Null Key Default Extra
+0  StudentID      int  YES        None      
+1       Form  char(1)  YES        None      
+2       Qnum      int  YES        None      
+3      Score      int  YES        None      

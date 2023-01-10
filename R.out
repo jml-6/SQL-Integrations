@@ -1,0 +1,24 @@
+$`avg(Percent)`
+[1] 0.7013605
+
+$`std(Percent)`
+[1] 0.07050166
+
+$`avg(Curved)`
+[1] 0.834953
+
+$`std(Curved)`
+[1] 0.08393055
+
+$Grade
+[1] "C"
+
+$count
+[1] 23
+
+$Grade_Curve
+[1] "B"
+
+$count
+[1] 25
+
