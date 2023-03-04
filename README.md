@@ -1,4 +1,4 @@
-# SQL-Integrations
+# SQL_Integrations
 An exercise in timing for SQL integrations in Python and R, in addition to visualizations in Seaborn
 
 The process was as follows:
